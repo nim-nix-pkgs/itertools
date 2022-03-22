@@ -9,7 +9,7 @@
   
   inputs.src-itertools-v0_2_1.flake = false;
   inputs.src-itertools-v0_2_1.owner = "narimiran";
-  inputs.src-itertools-v0_2_1.ref   = "refs/tags/v0.2.1";
+  inputs.src-itertools-v0_2_1.ref   = "v0_2_1";
   inputs.src-itertools-v0_2_1.repo  = "itertools";
   inputs.src-itertools-v0_2_1.type  = "github";
   
