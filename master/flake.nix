@@ -11,6 +11,7 @@
   inputs.src-itertools-master.ref   = "refs/heads/master";
   inputs.src-itertools-master.owner = "narimiran";
   inputs.src-itertools-master.repo  = "itertools";
+  inputs.src-itertools-master.dir   = "";
   inputs.src-itertools-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:

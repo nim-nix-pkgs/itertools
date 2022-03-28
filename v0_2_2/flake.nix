@@ -11,6 +11,7 @@
   inputs.src-itertools-v0_2_2.ref   = "refs/tags/v0.2.2";
   inputs.src-itertools-v0_2_2.owner = "narimiran";
   inputs.src-itertools-v0_2_2.repo  = "itertools";
+  inputs.src-itertools-v0_2_2.dir   = "";
   inputs.src-itertools-v0_2_2.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
