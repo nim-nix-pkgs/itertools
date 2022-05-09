@@ -7,7 +7,7 @@
   "license": "MIT",
   "web": "https://narimiran.github.io/itertools/",
   "refs": [
-    "fatal: unable to access 'https://github.com/narimiran/itertools/': Could not resolve host: github.com",
+    "fatal: unable to access 'https://github.com/narimiran/itertools/': HTTP/2 stream 1 was not closed cleanly before end of the underlying stream",
     ""
   ],
   "heads": []
